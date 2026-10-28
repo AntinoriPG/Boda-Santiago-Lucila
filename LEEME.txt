@@ -1,0 +1,12 @@
+INVITACION SANTIAGO Y LUCILA
+
+1. Extraer todo el ZIP en una carpeta.
+2. Abrir la carpeta con Visual Studio Code.
+3. Abrir index.html con Live Server para previsualizar.
+4. Para Netlify, arrastrar la carpeta con index.html y assets.
+
+El HTML incluye los estilos CSS y el JavaScript. No requiere instalar dependencias.
+Las tipografias de Google Fonts requieren conexion a internet.
+
+Pendiente: completar direccion de Iglesia Betesda y verificar el QR del album.
+Ceremonia: 19/03/2027. Fiesta: 20/03/2027.
